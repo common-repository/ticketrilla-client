@@ -1,0 +1,800 @@
+# Copyright (C) 2018 Ticketrilla: Client
+# This file is distributed under the same license as the Ticketrilla: Client package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ticketrilla: Client 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ticketrilla-"
+"client\n"
+"POT-Creation-Date: 2018-10-18 12:48:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-ajax.php:53 includes/class-ajax.php:324
+#: includes/class-ajax.php:472
+msgid "Unknown Rest Server Error"
+msgstr ""
+
+#: includes/class-ajax.php:95 includes/class-ajax.php:129
+msgid "Wrong Server URL"
+msgstr ""
+
+#: includes/class-ajax.php:126
+msgid "Unknown TTLS Error"
+msgstr ""
+
+#: includes/class-ajax.php:420 includes/class-model.php:108
+msgid "This field is required"
+msgstr ""
+
+#: includes/class-ajax.php:533
+msgid "Settings successfully saved"
+msgstr ""
+
+#: includes/class-attachment.php:25 includes/class-product.php:43
+#: includes/class-ticket-response.php:30 includes/class-ticket.php:39
+msgid "ID"
+msgstr ""
+
+#: includes/class-attachment.php:26
+msgid "Ticket ID"
+msgstr ""
+
+#: includes/class-attachment.php:27 includes/class-product.php:44
+#: includes/class-ticket-response.php:33 includes/class-ticket.php:43
+#: templates/product.php:60
+msgid "Title"
+msgstr ""
+
+#: includes/class-attachment.php:28
+msgid "Size"
+msgstr ""
+
+#: includes/class-attachment.php:29 includes/class-product.php:46
+#: includes/class-ticket-response.php:39
+msgid "Type"
+msgstr ""
+
+#: includes/class-attachment.php:30
+msgid "URL"
+msgstr ""
+
+#: includes/class-attachment.php:31
+msgid "MD5"
+msgstr ""
+
+#: includes/class-attachment.php:32 includes/class-ticket-response.php:32
+#: includes/class-ticket.php:41
+msgid "External ID"
+msgstr ""
+
+#: includes/class-attachment.php:33
+msgid "External URL"
+msgstr ""
+
+#: includes/class-attachment.php:79
+msgid "Could not create Temporary file."
+msgstr ""
+
+#: includes/class-attachment.php:124
+msgid "MD5 not found"
+msgstr ""
+
+#: includes/class-attachment.php:136
+msgid "Empty URL of attachment"
+msgstr ""
+
+#: includes/class-attachment.php:163
+msgid "Chosen directory is not writable."
+msgstr ""
+
+#: includes/class-attachment.php:167
+msgid "File size exceeds the limit."
+msgstr ""
+
+#: includes/class-attachment.php:174
+msgid "Can't move file."
+msgstr ""
+
+#: includes/class-attachment.php:190
+msgid "File Uploaded"
+msgstr ""
+
+#: includes/class-enqueue.php:49
+msgid "Waiting for save"
+msgstr ""
+
+#: includes/class-init.php:91 includes/class-init.php:101
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-init.php:185
+msgid "Server is not configured"
+msgstr ""
+
+#: includes/class-model.php:101
+msgid "These fields are required"
+msgstr ""
+
+#: includes/class-model.php:120
+msgid "The slug already exists"
+msgstr ""
+
+#: includes/class-model.php:126
+msgid "Method for unique-check not found"
+msgstr ""
+
+#: includes/class-model.php:133
+msgid "This post does not exist"
+msgstr ""
+
+#: includes/class-model.php:137
+msgid "Method for exist-check not found"
+msgstr ""
+
+#: includes/class-model.php:142
+msgid "This E-mail is invalid"
+msgstr ""
+
+#: includes/class-model.php:147
+msgid "This field must be numeric"
+msgstr ""
+
+#: includes/class-page.php:41
+msgid "Ticketrilla"
+msgstr ""
+
+#: includes/class-page.php:43 templates/error.php:13 templates/header.php:6
+#: templates/main.php:72 templates/settings.php:4
+msgid "Settings"
+msgstr ""
+
+#: includes/class-post.php:63
+msgid "Post not trashed"
+msgstr ""
+
+#: includes/class-post.php:70
+msgid "Post not untrashed"
+msgstr ""
+
+#: includes/class-post.php:85
+msgid "Post not inserted due to validation error"
+msgstr ""
+
+#: includes/class-post.php:92
+msgid "Failed adding post to db."
+msgstr ""
+
+#: includes/class-post.php:95
+msgid "Post added to db"
+msgstr ""
+
+#: includes/class-post.php:101
+msgid "Post not updated due to validation error"
+msgstr ""
+
+#: includes/class-post.php:109
+msgid "Failed updating post in db."
+msgstr ""
+
+#: includes/class-post.php:111
+msgid "Post updated in db"
+msgstr ""
+
+#: includes/class-product.php:45
+msgid "Slug"
+msgstr ""
+
+#: includes/class-product.php:47
+msgid "Description"
+msgstr ""
+
+#: includes/class-product.php:48 includes/class-ticket-response.php:35
+msgid "Author"
+msgstr ""
+
+#: includes/class-product.php:49
+msgid "Author URI"
+msgstr ""
+
+#: includes/class-product.php:50
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/class-product.php:51
+msgid "Service Terms"
+msgstr ""
+
+#: includes/class-product.php:52
+msgid "Privacy Statement"
+msgstr ""
+
+#: includes/class-product.php:53
+msgid "Manual"
+msgstr ""
+
+#: includes/class-product.php:54
+msgid "Registration Opened"
+msgstr ""
+
+#: includes/class-product.php:56 includes/class-ticket-response.php:44
+#: includes/class-ticket.php:56 templates/product-settings-form.php:35
+#: templates/product-settings-server-modal.php:26
+msgid "Server"
+msgstr ""
+
+#: includes/class-product.php:57 includes/class-ticket-response.php:45
+#: includes/class-ticket.php:57 templates/product-settings-form.php:52
+#: templates/product-settings.php:19
+msgid "Login"
+msgstr ""
+
+#: includes/class-product.php:58 templates/product-settings-form.php:67
+msgid "E-mail"
+msgstr ""
+
+#: includes/class-product.php:59 templates/product-settings-form.php:82
+msgid "Name"
+msgstr ""
+
+#: includes/class-product.php:60 includes/class-ticket-response.php:46
+#: includes/class-ticket.php:58 templates/product-settings-form.php:96
+msgid "Password"
+msgstr ""
+
+#: includes/class-product.php:61
+msgid "Terms"
+msgstr ""
+
+#: includes/class-product.php:63
+msgid "License Fields"
+msgstr ""
+
+#: includes/class-product.php:64 includes/class-ticket-response.php:47
+#: includes/class-ticket.php:59 templates/product-settings-form.php:112
+msgid "License"
+msgstr ""
+
+#: includes/class-product.php:65 includes/class-ticket-response.php:48
+#: includes/class-ticket.php:60
+msgid "License Data"
+msgstr ""
+
+#: includes/class-product.php:94
+msgid "This product is registered"
+msgstr ""
+
+#: includes/class-settings-attachments.php:18
+msgid "Max attachment size"
+msgstr ""
+
+#: includes/class-settings-attachments.php:19
+msgid "Max load time"
+msgstr ""
+
+#: includes/class-settings-attachments.php:20
+msgid "Autoload attachments"
+msgstr ""
+
+#: includes/class-settings-attachments.php:44
+msgid "%s: options values have not changed"
+msgstr ""
+
+#: includes/class-ticket-response.php:31
+msgid "Parent ID"
+msgstr ""
+
+#: includes/class-ticket-response.php:34
+msgid "Author ID"
+msgstr ""
+
+#: includes/class-ticket-response.php:36
+msgid "Author Position"
+msgstr ""
+
+#: includes/class-ticket-response.php:37
+msgid "Person"
+msgstr ""
+
+#: includes/class-ticket-response.php:38
+msgid "Person Position"
+msgstr ""
+
+#: includes/class-ticket-response.php:40
+msgid "Reason"
+msgstr ""
+
+#: includes/class-ticket-response.php:41 includes/class-ticket.php:45
+msgid "Date"
+msgstr ""
+
+#: includes/class-ticket-response.php:42 includes/class-ticket.php:44
+msgid "Content"
+msgstr ""
+
+#: includes/class-ticket-response.php:43 includes/class-ticket.php:47
+#: templates/product.php:72 templates/settings-attachments-form.php:11
+#: templates/ticket.php:97
+msgid "Attachments"
+msgstr ""
+
+#: includes/class-ticket.php:40
+msgid "Product ID"
+msgstr ""
+
+#: includes/class-ticket.php:42
+msgid "Client ID"
+msgstr ""
+
+#: includes/class-ticket.php:46
+msgid "Ticket Attachments"
+msgstr ""
+
+#: includes/class-ticket.php:48
+msgid "Attachments Count"
+msgstr ""
+
+#: includes/class-ticket.php:49
+msgid "Responses"
+msgstr ""
+
+#: includes/class-ticket.php:50
+msgid "Responses Count"
+msgstr ""
+
+#: includes/class-ticket.php:51 templates/product.php:66
+msgid "Last Response"
+msgstr ""
+
+#: includes/class-ticket.php:52
+msgid "Developer"
+msgstr ""
+
+#: includes/class-ticket.php:53 templates/product.php:47
+msgid "Status"
+msgstr ""
+
+#: includes/class-ticket.php:54
+msgid "Support Until"
+msgstr ""
+
+#: includes/class-ticket.php:55
+msgid "Extend Support URL"
+msgstr ""
+
+#: includes/class-ticket.php:66
+msgid "needs attention"
+msgstr ""
+
+#: includes/class-ticket.php:67
+msgid "pending"
+msgstr ""
+
+#: includes/class-ticket.php:68
+msgid "closed"
+msgstr ""
+
+#: includes/class-ticket.php:75
+msgid "%s takes ticket for work"
+msgstr ""
+
+#: includes/class-ticket.php:76
+msgid "%s now working with this ticket"
+msgstr ""
+
+#: includes/class-ticket.php:77
+msgid "%s has closed this ticket. Reason — %s."
+msgstr ""
+
+#: includes/class-ticket.php:79
+msgid "solved"
+msgstr ""
+
+#: includes/class-ticket.php:80
+msgid "client cancel"
+msgstr ""
+
+#: includes/class-ticket.php:81
+msgid "client refund"
+msgstr ""
+
+#: includes/class-ticket.php:83
+msgid "%s has reopened this ticket."
+msgstr ""
+
+#: templates/add-ticket-form.php:12 templates/ticket.php:110
+msgid "Add Response"
+msgstr ""
+
+#: templates/add-ticket-form.php:16
+msgid "Ticket Title"
+msgstr ""
+
+#: templates/add-ticket-form.php:42
+msgid "Delete this attachment"
+msgstr ""
+
+#: templates/add-ticket-form.php:42
+msgid "Delete"
+msgstr ""
+
+#: templates/add-ticket-form.php:47
+msgid "Add Attachment"
+msgstr ""
+
+#: templates/add-ticket-form.php:72
+msgid "Send Response"
+msgstr ""
+
+#: templates/add-ticket-form.php:72
+msgid "Send Ticket"
+msgstr ""
+
+#: templates/add-ticket.php:13
+msgid "Add Ticket"
+msgstr ""
+
+#: templates/add-ticket.php:19
+msgid "Add New Ticket"
+msgstr ""
+
+#: templates/add-ticket.php:37 templates/ticket.php:59
+msgid "License type"
+msgstr ""
+
+#: templates/add-ticket.php:40 templates/ticket.php:62
+msgid "Support until"
+msgstr ""
+
+#: templates/add-ticket.php:42 templates/ticket.php:64
+msgid "Not support"
+msgstr ""
+
+#: templates/add-ticket.php:44 templates/ticket.php:66
+msgid "Extend support"
+msgstr ""
+
+#: templates/attachment-loading.php:3
+msgid "Loading"
+msgstr ""
+
+#: templates/attachment-loading.php:11
+msgid "Error"
+msgstr ""
+
+#: templates/attachment-loading.php:12
+msgid "Reload this attachment"
+msgstr ""
+
+#: templates/attachment-loading.php:12
+msgid "Reload"
+msgstr ""
+
+#: templates/attachment.php:19
+msgid "Load to server"
+msgstr ""
+
+#: templates/attachment.php:19
+msgid "To Server"
+msgstr ""
+
+#: templates/attachment.php:31
+msgid "Download"
+msgstr ""
+
+#: templates/error.php:10
+msgid "Error!"
+msgstr ""
+
+#: templates/error.php:13
+msgid "Main Page"
+msgstr ""
+
+#: templates/filter.php:6
+msgid "All"
+msgstr ""
+
+#: templates/filter.php:12
+msgid "Show"
+msgstr ""
+
+#. #-#-#-#-#  ttlc.pot (Ticketrilla: Client 1.0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: templates/header.php:6 templates/settings.php:3 templates/ticketrilla.php:2
+msgid "Ticketrilla: Client"
+msgstr ""
+
+#: templates/main.php:2
+msgid "Supported Themes and Plugins"
+msgstr ""
+
+#: templates/main.php:8
+msgid "Add Custom"
+msgstr ""
+
+#: templates/main.php:25
+msgid "Themes"
+msgstr ""
+
+#: templates/main.php:28
+msgid "Plugins"
+msgstr ""
+
+#: templates/main.php:31
+msgid "Others"
+msgstr ""
+
+#: templates/main.php:34 templates/main.php:125
+msgid "Archive"
+msgstr ""
+
+#: templates/main.php:63
+msgid "No added products found"
+msgstr ""
+
+#: templates/main.php:96
+msgid "By"
+msgstr ""
+
+#: templates/main.php:116
+msgid "Unarchive"
+msgstr ""
+
+#: templates/main.php:138
+msgid "Available for Support"
+msgstr ""
+
+#: templates/main.php:143
+msgid "No available for support products found"
+msgstr ""
+
+#: templates/main.php:152
+msgid "Product Name"
+msgstr ""
+
+#: templates/main.php:162
+msgid "Actions"
+msgstr ""
+
+#: templates/main.php:165
+msgid "Add"
+msgstr ""
+
+#: templates/pagination-ticket.php:10
+msgid "Previous"
+msgstr ""
+
+#: templates/pagination-ticket.php:30
+msgid "Next"
+msgstr ""
+
+#: templates/pagination-ticket.php:31
+msgid "Load more"
+msgstr ""
+
+#: templates/product-settings-common-footer.php:8 templates/ticket.php:75
+msgid "Close"
+msgstr ""
+
+#: templates/product-settings-common-footer.php:9
+msgid "Save Changes"
+msgstr ""
+
+#: templates/product-settings-form.php:38
+#: templates/product-settings-server-modal.php:30
+msgid "Enter Server Address"
+msgstr ""
+
+#: templates/product-settings-form.php:39
+msgid "Change"
+msgstr ""
+
+#: templates/product-settings-form.php:45
+msgid "Product"
+msgstr ""
+
+#: templates/product-settings-form.php:54
+msgid "Enter Login"
+msgstr ""
+
+#: templates/product-settings-form.php:69
+msgid "Enter E-mail"
+msgstr ""
+
+#: templates/product-settings-form.php:84
+msgid "Enter Name"
+msgstr ""
+
+#: templates/product-settings-form.php:99
+msgid "Enter Password"
+msgstr ""
+
+#: templates/product-settings-form.php:157
+msgid "I have a license"
+msgstr ""
+
+#: templates/product-settings-form.php:168
+msgid "Enter %s"
+msgstr ""
+
+#: templates/product-settings-form.php:191
+msgid "I forgot my login or password"
+msgstr ""
+
+#: templates/product-settings-form.php:191
+msgid "remember"
+msgstr ""
+
+#: templates/product-settings-form.php:203
+msgid "I agree to your %1$sterms of service%3$s and %2$sprivacy statement.%3$s"
+msgstr ""
+
+#: templates/product-settings-password-reset.php:14
+#: templates/product-settings-password-reset.php:62
+#: templates/product-settings-password-reset.php:119
+msgid "Access Recovery"
+msgstr ""
+
+#: templates/product-settings-password-reset.php:24
+msgid "Your E-mail or Login"
+msgstr ""
+
+#: templates/product-settings-password-reset.php:26
+msgid "Enter E-mail or Login"
+msgstr ""
+
+#: templates/product-settings-password-reset.php:53
+#: templates/product-settings-password-reset.php:110
+#: templates/product-settings-password-reset.php:129
+msgid "Back"
+msgstr ""
+
+#: templates/product-settings-password-reset.php:54
+#: templates/product-settings-password-reset.php:111
+msgid "Send"
+msgstr ""
+
+#: templates/product-settings-password-reset.php:73
+#: templates/product-settings-password-reset.php:75
+msgid "Enter Secure Key"
+msgstr ""
+
+#: templates/product-settings-password-reset.php:75
+msgid "Secure key was send in to your e-mail"
+msgstr ""
+
+#: templates/product-settings-password-reset.php:89
+msgid "Auto-Substitution"
+msgstr ""
+
+#: templates/product-settings-password-reset.php:89
+msgid "If checked, password is automatically inserted"
+msgstr ""
+
+#: templates/product-settings-password-reset.php:124
+msgid "Your access has been restored"
+msgstr ""
+
+#: templates/product-settings-server-modal.php:12
+#: templates/product-settings.php:15
+msgid "Product Settings"
+msgstr ""
+
+#: templates/product-settings-server-modal.php:31
+msgid "Check"
+msgstr ""
+
+#: templates/product-settings.php:20
+msgid "Registration is closed"
+msgstr ""
+
+#: templates/product-settings.php:20
+msgid "Registration"
+msgstr ""
+
+#: templates/product.php:14
+msgid "Tickets: %s"
+msgstr ""
+
+#: templates/product.php:14
+msgid "New Ticket"
+msgstr ""
+
+#: templates/product.php:20
+msgid "Needs Attention"
+msgstr ""
+
+#: templates/product.php:23
+msgid "Pending"
+msgstr ""
+
+#: templates/product.php:26
+msgid "Closed"
+msgstr ""
+
+#: templates/product.php:39
+msgid "No Tickets Found"
+msgstr ""
+
+#: templates/settings-attachments-form.php:18
+msgid "MB"
+msgstr ""
+
+#: templates/settings-attachments-form.php:20
+msgid "Maximum attachments size"
+msgstr ""
+
+#: templates/settings-attachments-form.php:26
+msgid "sec"
+msgstr ""
+
+#: templates/settings-attachments-form.php:28
+msgid "Maximum attachments loading time"
+msgstr ""
+
+#: templates/settings-attachments-form.php:36
+msgid "Autoload attachments to server on ticket response getting"
+msgstr ""
+
+#: templates/settings-attachments-form.php:57
+msgid "Save"
+msgstr ""
+
+#: templates/ticket-sort.php:9
+msgid "Sort"
+msgstr ""
+
+#: templates/ticket-sort.php:11
+msgid "Recent replies at the bottom"
+msgstr ""
+
+#: templates/ticket-sort.php:12
+msgid "Recent replies at the top"
+msgstr ""
+
+#: templates/ticket.php:22
+msgid "Ticket"
+msgstr ""
+
+#: templates/ticket.php:35
+msgid "Agent not set"
+msgstr ""
+
+#: templates/ticket.php:75
+msgid "Open"
+msgstr ""
+
+#: templates/ticket.php:123
+msgid "All Attachments"
+msgstr ""
+
+#: templates/ticket.php:182 templates/ticket.php:188
+msgid "Client"
+msgstr ""
+
+#: templates/ticket.php:220
+msgid "To Up"
+msgstr ""
+
+#: templates/ticket.php:258
+msgid "Ticket loading error"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://ticketrilla.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Client's plugin for support of WP products"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "eCuras"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://ecuras.com"
+msgstr ""

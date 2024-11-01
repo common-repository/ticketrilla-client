@@ -1,0 +1,14 @@
+/* Added CSS */
+
+.ttlc .tab-content > .tab-pane {
+	display: none;
+}
+
+.ttlc .tab-content > .active {
+	display: block;
+}
+
+.ttlc__tickets .table td > a {
+	pointer-events: auto;
+	text-decoration: none;
+}
